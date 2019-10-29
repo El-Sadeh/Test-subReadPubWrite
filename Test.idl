@@ -1,0 +1,7 @@
+struct FromSub{
+	boolean coolness;
+};
+
+struct ToSub{
+	short counter;
+};
